@@ -7,7 +7,7 @@
 
 .logo {
   height: 6em;
-  padding: 1.5em;
+  padding: 2em;
   will-change: filter;
   transition: filter 300ms;
 }
@@ -39,4 +39,11 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.food-image {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  
 }
